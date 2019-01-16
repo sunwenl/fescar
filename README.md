@@ -1,5 +1,5 @@
 # FESCAR: Fast & Easy Commit And Rollback
-
+参考：https://mp.weixin.qq.com/s/HCLe4Ftz_yr9x5vVgABGlg?t=1547130927495&scene=25#wechat_redirect
 [![License](https://img.shields.io/badge/license-Apache%202-4EB1BA.svg)](https://www.apache.org/licenses/LICENSE-2.0.html)
 
 -------
